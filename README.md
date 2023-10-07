@@ -123,4 +123,4 @@ For now, visit in persone and opening hours may not be necessary, but maybe in t
 
 Replace /public/assets/IMAGES/Site_maps.png your site maps image path.
 
-![Site maps](C:\Users\HP\Desktop\webdev project/DziriServeSiteMap-1.png)
+![Site maps](DziriServiceSiteMap-1.png)
