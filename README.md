@@ -1,6 +1,6 @@
 # Project Name: Dziri Serve
 
-# Team members: Djelili Imene Fatma / Bachir Imene / Mreddef Amira
+# Team members: Djelili Imene Fatma / Bachir Imene / Mereddef Amira
 
 # 1. Who is this website for?
 
