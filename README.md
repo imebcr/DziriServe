@@ -5,36 +5,47 @@
 # 1. Who is this website for?
 
 ## 1.1 Tergeted individuals:
-
+   
 ### What is the age range of your target audience?
+    The website targets a broad age range, primarily focusing on working-age individuals, aged 18 to 55, for workers. For clients, the audience is even broader, encompassing young adults (18-35), middle-aged individuals (36-55), and potentially seniors (55+). However, seniors may represent a smaller portion of our user base due to lower internet adoption rates in this age group.
 
 ### Will your site appeal to more women or men? What is the mix?
+    While the gender mix may fluctuate, it is our aim to maintain a balanced representation to ensure equal appeal to both men and women. This approach aligns with the diverse range of services offered on the platform, which are not limited by gender.
 
 ### Which country do your visitors live in?
+   Initially, our website is tailored for Algerian clients, but we envision the possibility of expanding its reach in future projects to cater to a broader audience.
 
 ### Do they live in urban or rural areas?
+   The platform is designed to accommodate users from both urban and rural areas, with a slightly higher focus on urban users due to their greater internet accessibility and density.
 
 ### What is the average income of visitors?
+   The website's target audience encompasses individuals with a diverse range of income levels, including both low-income workers seeking opportunities and middle-class clients in search of services.
 
 ### What level of education do they have?
-
+   Our target audience encompasses individuals with diverse educational backgrounds. For workers, this includes those with vocational training certificates as well as those formal without vocational training. Additionally, our audience consists of individuals ranging from high school graduates to those with advanced degrees .
 ### What is their occupation?
-
+  Our platform caters to a wide range of occupations, accommodating both clients and workers:
+Clients: Our client audience spans various occupations, from homeowners seeking construction services to companies in need of specialized contractors. We serve a diverse group of clients.
+Workers: Workers using our platform come from various occupational backgrounds, including skilled trades such as carpentry, plumbing, and electrical work. We also connect job seekers from a broad spectrum of professions, including students, professionals, and individuals seeking part-time or freelance opportunities.
 ### How many hours do they work per week?
-
+   Workers using our platform often have flexible work schedules, with a focus on part-time or freelance roles, making it an attractive option for those seeking supplementary income.
 ### How often do they use the web?
-
+   Frequency of web use may vary among our audiences, but we expect them to access it when they need services or opportunities.
 ### What kind of device do they use to access the web?
-
+   Our audience is likely to access the website using a mix of devices, including smartphones, tablets, and desktop computers ...
 ## 1.2 Tergeted companies:
 
 ### What is the size of the company or relevant department?
+   Our platform serves a diverse range of companies, including small businesses, startups, and medium-sized enterprises.
 
 ### What is the position of people in the company who visit your site?
+Visitors to our site typically encompass business owners and department heads responsible for hiring and project management. In this context, they assume the role of "clients."
 
 ### Will visitors be using the site for themselves or for someone else?
+Visitors to our site may seek services or job opportunities for their companies. For instance, an HR manager might explore contractor options for a company project. 
 
 ### How large is the budget they control?
+The budgetary control of our site's visitors varies significantly, depending on the nature and scope of their projects or service needs. These budgets can range from modest allocations for local services to substantial funds for large-scale corporate endeavors. Our platform is thoughtfully designed to accommodate this diversity in budget control.  
 
 # 2. Why people visit this website?
 
@@ -102,9 +113,28 @@ For now, visit in persone and opening hours may not be necessary, but maybe in t
 # 3. What visitors are trying to achieve?
 
 ## Key tasks and motivations:
+Visitors to dziriserve fall into two main categories: clients and workers. Each group has distinct goals and objectives when they visit our site:
+
+** Clients:
+
+- Find Services: Clients visit dziriserve to find the specific services they need. Whether it's building construction, learning opportunities, or any other service.
+- Ease of use: Customers prefer to use our website to request services because of its ease of use. They do not have to move around or make an effort. They can just request the service from their homes.
+- Discover Services: Visitors explore the platform to discover various services offered by professionals.
+
+** Workers:
+
+- Find Job Opportunities: Workers who visit dziriserve are seeking job opportunities in their respective fields. 
+- Connect with Peers: Visitors use HERAFY to connect with professionals in their industry, share knowledge, and build professional relationships.
+- Enhance Reputation: They use the platform to build a positive online reputation and gain credibility in their industry.
 
 ## List of reasons why people visit the HERAFY website:
-
+* Job Searching
+* Finding Freelance Work
+* Hiring Skilled Workers
+* Posting Job Listings
+* Networking and Professional Connections
+* Discovering Various Services
+* Project Management and Collaboration
 # 4. What information visitors need to acheive their goals?
 
 ### Will visitors be familiar with your subject area / brand or do you need to introduce yourself?
