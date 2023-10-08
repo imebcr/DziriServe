@@ -138,16 +138,45 @@ Visitors to dziriserve fall into two main categories: clients and workers. Each 
 # 4. What information visitors need to acheive their goals?
 
 ### Will visitors be familiar with your subject area / brand or do you need to introduce yourself?
+Actually it is a new idea in the Algerian society ,because as we know , in order to  find someone to do a job such as repairing electricity or drainage pipes ,requires personal relationship with a worker ,but we overcome this problem by offering people who are doing such kind of jobs with intention of facilitate people’s life. So to reach this goal, we are obliged to introduce ourselves to both client and worker.
 
 ### Will they be familiar with the product / service / information you are covering or do they need background information on it?
+No, they will not be familiar with our services neither workers nor clients, it is a new thing in the work community.
 
 ### What are the most important features of what you are offering?
+The most important features are:
+•	Our website will be open 24/7 in case of any emergency.
+•	The worker works only when s/he is free.
+•	A young worker will not be obliged to work for another boss, s/he starts with us.
+•	A large amount of work chances are offered.
+•	The client can distinguish between a good worker and bad one through a rating system for the workers but of course a test will be placed to make sure that our clients will have a good service.
+•	The worker can post it creations on its dziriServe profile.
+•	Our website offers also for women who work from their houses to enlarge their projects.
+
 
 ### What is special about what you offer that differentiates you from other sites that offer something similar?
+The special about our website that it is 
+•	We offer an easy way for our workers to find jobs and also services for clients.
+•	We offer good prices for clients and code promo for our loyal clients
+•	We offer a huge number of work chances for our works.
+•	Our services covers a lot of fields (education, food, crafts, ...).
+•	Our service policy is safe and fair, as well as comprehensive to all parts of the country.
+•	Our website offers trustful works.
+
 
 ### Once people have achieved the goal that sent them to your site, are there common questions people ask about this subject area?
+Yes, of course there are some question that people may  ask like :
+•	Does the worker come in time as mentioned in the website?
+•	Is the service offered by the worker good enough or not?
+•	Is it trustable?
+
 
 # 5. How often will people visit the website?
+Workers:
+  Workers will visit the website always and every time they are available.
+Clients:
+  They will visit it every time they are in need for a service.
+
 
 # 6. Site maps:
 
