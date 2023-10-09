@@ -7,32 +7,45 @@
 ## 1.1 Tergeted individuals:
    
 ### What is the age range of your target audience?
-    The website targets a broad age range, primarily focusing on working-age individuals, aged 18 to 55, for workers. For clients, the audience is even broader, encompassing young adults (18-35), middle-aged individuals (36-55), and potentially seniors (55+). However, seniors may represent a smaller portion of our user base due to lower internet adoption rates in this age group.
+
+   The website targets a broad age range, primarily focusing on working-age individuals, aged 18 to 55, for workers. For clients, the audience is even broader, encompassing young adults (18-35), middle-aged individuals (36-55), and potentially seniors (55+). However, seniors may represent a smaller portion of our user base due to lower internet adoption rates in this age group.
 
 ### Will your site appeal to more women or men? What is the mix?
-    While the gender mix may fluctuate, it is our aim to maintain a balanced representation to ensure equal appeal to both men and women. This approach aligns with the diverse range of services offered on the platform, which are not limited by gender.
 
+   While the gender mix may fluctuate, it is our aim to maintain a balanced representation to ensure equal appeal to both men and women. This approach aligns with the diverse range of services offered on the platform, which are not limited by gender.
+   
 ### Which country do your visitors live in?
+
    Initially, our website is tailored for Algerian clients, but we envision the possibility of expanding its reach in future projects to cater to a broader audience.
 
 ### Do they live in urban or rural areas?
+
    The platform is designed to accommodate users from both urban and rural areas, with a slightly higher focus on urban users due to their greater internet accessibility and density.
 
 ### What is the average income of visitors?
+
    The website's target audience encompasses individuals with a diverse range of income levels, including both low-income workers seeking opportunities and middle-class clients in search of services.
 
 ### What level of education do they have?
+
    Our target audience encompasses individuals with diverse educational backgrounds. For workers, this includes those with vocational training certificates as well as those formal without vocational training. Additionally, our audience consists of individuals ranging from high school graduates to those with advanced degrees .
+   
 ### What is their occupation?
+
   Our platform caters to a wide range of occupations, accommodating both clients and workers:
 Clients: Our client audience spans various occupations, from homeowners seeking construction services to companies in need of specialized contractors. We serve a diverse group of clients.
 Workers: Workers using our platform come from various occupational backgrounds, including skilled trades such as carpentry, plumbing, and electrical work. We also connect job seekers from a broad spectrum of professions, including students, professionals, and individuals seeking part-time or freelance opportunities.
 ### How many hours do they work per week?
    Workers using our platform often have flexible work schedules, with a focus on part-time or freelance roles, making it an attractive option for those seeking supplementary income.
+   
 ### How often do they use the web?
+
    Frequency of web use may vary among our audiences, but we expect them to access it when they need services or opportunities.
+   
 ### What kind of device do they use to access the web?
+
    Our audience is likely to access the website using a mix of devices, including smartphones, tablets, and desktop computers ...
+   
 ## 1.2 Tergeted companies:
 
 ### What is the size of the company or relevant department?
@@ -138,48 +151,66 @@ Visitors to dziriserve fall into two main categories: clients and workers. Each 
 # 4. What information visitors need to acheive their goals?
 
 ### Will visitors be familiar with your subject area / brand or do you need to introduce yourself?
-Actually it is a new idea in the Algerian society ,because as we know , in order to  find someone to do a job such as repairing electricity or drainage pipes ,requires personal relationship with a worker ,but we overcome this problem by offering people who are doing such kind of jobs with intention of facilitate people’s life. So to reach this goal, we are obliged to introduce ourselves to both client and worker.
+
+Some visitors as we mentioned before in question 2 that they  may be entirely new to the concept and may require an introduction to understand how the platform works, because as we know , in order to  find someone to do a job such as repairing electricity or drainage pipes ,requires personal relationship with a worker ,but we overcome this problem by offering people who are doing such kind of jobs and those who are such as skilled workers with intention of facilitate people’s life. So to reach this goal, we are obliged to introduce ourselves to both client and worker.
 
 ### Will they be familiar with the product / service / information you are covering or do they need background information on it?
-No, they will not be familiar with our services neither workers nor clients, it is a new thing in the work community.
 
+ visitors may have varying levels of familiarity with the platform's services. Some may be familiar with the concept of connecting skilled workers with service seekers, while others may need additional background information to fully grasp how the platform operates and how it can benefit them.
+ Therefore, in both cases we are going to introduce our platform for all cases to make it easy for any category and more simple to understand and being familiar with the concept of connecting skilled workers with services.
+ 
 ### What are the most important features of what you are offering?
-The most important features are:
+
+The most important features of the our platform "Dziri Serve" include:
+
 •	Our website will be open 24/7 in case of any emergency.
-•	The worker works only when s/he is free.
-•	A young worker will not be obliged to work for another boss, s/he starts with us.
+•	The worker works only when she/he is free.
+•	A young worker will not be obliged to work for another boss, she/he starts with us.
 •	A large amount of work chances are offered.
-•	The client can distinguish between a good worker and bad one through a rating system for the workers but of course a test will be placed to make sure that our clients will have a good service.
+•	The client can distinguish between a good worker and the one who is not good in doing his/her job and this is going to be through allowing service seekers to provide feedback on the quality of service received, in order to enhancing trust and transparency.
 •	The worker can post it creations on its dziriServe profile.
 •	Our website offers also for women who work from their houses to enlarge their projects.
+• User Authentication: Allowing workers to create profiles and service seekers to search without registration, ensuring accessibility for all users.
 
 
 ### What is special about what you offer that differentiates you from other sites that offer something similar?
-The special about our website that it is 
+
+The unique selling points of our website " Dziri Serve "  include:
+
 •	We offer an easy way for our workers to find jobs and also services for clients.
 •	We offer good prices for clients and code promo for our loyal clients
 •	We offer a huge number of work chances for our works.
 •	Our services covers a lot of fields (education, food, crafts, ...).
 •	Our service policy is safe and fair, as well as comprehensive to all parts of the country.
 •	Our website offers trustful works.
+•  Workers can create customized profiles to highlight their specific skills, qualifications, and availability, providing a personalized touch.
+•  The messaging system provides a secure environment for users to discuss job details, ensuring privacy and confidentiality.
+•The platform allows service seekers to search without registration, ensuring a seamless and hassle-free experience.
 
 
 ### Once people have achieved the goal that sent them to your site, are there common questions people ask about this subject area?
-Yes, of course there are some question that people may  ask like :
+
+Yes, once users have achieved their initial goal on our website, they may have common follow-up questions related to the subject area. These could include inquiries about:
+
 •	Does the worker come in time as mentioned in the website?
 •	Is the service offered by the worker good enough or not?
 •	Is it trustable?
+• Users may have questions about payment methods, rates, and compensation for services rendered.
+• They may inquire about the possibility of offering or finding additional services beyond their initial goal.
+• Users may be interested in learning more about the platform's features, any recent updates, or upcoming enhancements.
 
 
 # 5. How often will people visit the website?
-Workers:
-  Workers will visit the website always and every time they are available.
-Clients:
-  They will visit it every time they are in need for a service.
 
+Since we have two categories of people who will visit our website, therefore we distinguish two cases :
+
+Clients:
+ They will visit periodically when they require specific services.
+Workers:
+ They will access the platform more regularly to offer their services ( once they are available ) , to let clients know that they are available for that specific service.
 
 # 6. Site maps:
 
-Replace /public/assets/IMAGES/Site_maps.png your site maps image path.
+Dziri Serve site map : 
 
 ![Site maps](DziriServiceSiteMap-1.png)
