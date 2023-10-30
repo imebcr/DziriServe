@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="ar">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="registration-form.css">
+    <title>استمارة التسجيل</title>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+
+<body>
+    <div class="card">
+        <section class="container">
+            <div class="box">
+                <div class="registration_form">
+                    <h2>استمارة التسجيل</h2>
+                    <h4><!--أنت رائد الطريق! 
+                        تبحث عن خدمة معينة
+                        ليست لدينا بعد؟ -->لا داعي للقلق،
+                        نحن في دزيري سرف هنا لمساعدتك
+                        للاتصال بالفرص المناسبة.</h4>
+                    <h3>لنبدأ هذه المغامرة معًا.
+                        هيا نبدأ! 🚀</h3>
+                    <img src="logo.jpg" class="hello">
+                </div>
+                <div class="formuser">
+                    <form action="#" method="post">
+                        <div class="input-box">
+                            <!--التسمية لاسم المستخدم-->
+                            <label class="name" for="firstname">الاسم الأول</label>
+                            <input type="text" name="firstname" id="firstname" size="15" maxlength="30" required />
+                        </div>
+                        <!--ما هو الفرق أو استخدامات name و id؟-->
+
+                        <div class="input-box">
+                            <!--التسمية لللقب-->
+                            <label class="name" for="surname">اللقب</label>
+                            <input type="text" name="surname" id="surname" size="15" maxlength="30" required />
+                        </div>
+                        <div class="input-box">
+                            <!--التسمية للبريد الإلكتروني-->
+                            <label for="email">البريد الإلكتروني</label>
+                            <input type="email" name="email" id="email" size="15" maxlength="30" required />
+                        </div>
+                        <!--الموقع أو المدينة-->
+
+                        <div class="select-box">
+                            <label for="location">الموقع/المدينة:</label>
+                            <select name="location" size="5" title="الولاية">
+                                <option value="01" selected="selected">أدرار</option>
+                                <option value="02">الشلف</option>
+                                <option value="03">الأغواط</option>
+                                <option value="04">أم البواقي</option>
+                                <option value="05">باتنة</option>
+                                <option value="06">بجاية</option>
+                                <option value="07">بسكرة</option>
+                                <option value="08">بشار</option>
+                                <option value="09">البليدة</option>
+                                <option value="10">البويرة</option>
+                                <option value="11">تمنراست</option>
+                                <option value="12">تبسة</option>
+                                <option value="13">تلمسان</option>
+                                <option value="14">تيارت</option>
+                                <option value="15">تيزي وزو</option>
+                                <option value="16">الجزائر</option>
+                                <option value="17">الجلفة</option>
+                                <option value="18">جيجل</option>
+                                <option value="19">سطيف</option>
+                                <option value="20">سعيدة</option>
+                                <option value="21">سكيكدة</option>
+                                <option value="22">سيدي بلعباس</option>
+                                <option value="23">عنابة</option>
+                                <option value="24">قالمة</option>
+                                <option value="25">قسنطينة</option>
+                                <option value="26">المدية</option>
+                                <option value="27">مستغانم</option>
+                                <option value="28">المسيلة</option>
+                                <option value="29">معسكر</option>
+                                <option value="30">ورقلة</option>
+                                <option value="31">وهران</option>
+                                <option value="32">البيض</option>
+                                <option value="33">اليزي</option>
+                                <option value="34">برج بوعريريج</option>
+                                <option value="35">بومرداس</option>
+                                <option value="36">الطارف</option>
+                                <option value="37">تندوف</option>
+                                <option value="38">تيسمسيلت</option>
+                                <option value="39">الوادي</option>
+                                <option value="40">خنشلة</option>
+                                <option value="41">سوق أهراس</option>
+                                <option value="42">تيبازة</option>
+                                <option value="43">ميلة</option>
+                                <option value="44">عين دفلى</option>
+                                <option value="45">النعامة</option>
+                                <option value="46">عين تموشنت</option>
+                                <option value="47">غرداية</option>
+                                <option value="48">غليزان</option>
+                                <option value="49">المغير</option>
+                                <option value="50">المنيعة</option>
+                                <option value="51">أولاد جلال</option>
+                                <option value="52">برج باجي مختار</option>
+                                <option value="53">بني عباس</option>
+                                <option value="54">تميمون</option>
+                                <option value="55">تقرت</option>
+                                <option value="56">جانت</option>
+                                <option value="57">أين صالح</option>
+                                <option value="58">أين قزام</option>
+                            </select>
+                        </div>
+
+
+                        <div class="input-box">
+                            <!--التسمية للوظيفة أو الخدمة المقدمة-->
+                            <label for="occupation">المهنة/الخدمة المقدمة</label>
+                            <input type="text" name="occupation" id="occupation" size="15" maxlength="30" required />
+                        </div>
+                        <!--التسمية لوصف الخدمة المقدمة-->
+
+                        <div class="description-box">
+                            <label for="servicedescription">يرجى تقديم وصف موجز للخدمة التي تقدمها:</label>
+                            <label for="service_description"></label>
+                            <textarea name="service_description" id="service_description" cols="30"
+                                rows="5">وصف...</textarea>
+                        </div>
+
+                        <!--التوافر (متى تكون متاحًا لتقديم هذه الخدمة؟):-->
+
+                        <div class="availability-box">
+                            <label for="availability">التوافر:</label>
+                            <select name="availability" id="availability">
+                                <option value="morning">الصباح</option>
+                                <option value="afternoon">الظهيرة</option>
+                                <option value="evening">المساء</option>
+                                <option value="anytime">في أي وقت</option>
+                            </select>
+                        </div>
+                        <div class="preferredmethod">
+                            <label for="preferredmethod">الوسيلة المفضلة للتواصل (البريد
+                                الإلكتروني/الهاتف/كلاهما):</label>
+                            <div class="checkbox-group">
+                                <!-- <div class="input-box"> -->
+                                <input type="checkbox" name="contact_method" value="email_contact" id="email_contact"
+                                    checked="checked" />
+                                <label for="email_contact">البريد الإلكتروني</label>
+                                <!-- </div> -->
+                                <!--التسمية لقيمة البريد الإلكتروني-->
+                                <!-- <div class="input-box"> -->
+                                <input type="checkbox" name="contact_method" value="phone" id="phone" />
+                                <!--التسمية لقيمة الهاتف-->
+                                <label for="phone">الهاتف</label>
+                                <!-- </div> -->
+                                <!-- <div class="input-box"> -->
+                                <input type="checkbox" name="contact_method" value="both" id="both" />
+                                <!--التسمية لقيم كلاهما أعلاه-->
+                                <label for="both">كلاهما</label>
+                                <!-- </div> -->
+                            </div>
+                        </div>
+                        <!--هل إذا كتبت في هذه التسمية البريد الإلكتروني سيكون الأول أعلاه البريد الإلكتروني
+        أم هذا الجديد؟-->
+
+
+                        <div class="sample-box">
+                            <!--التسمية لإرفاق النماذج/البورتفوليو-->
+                            <label for="sample">إرفاق عينات/بورتفوليو</label>
+                            <input type="file" name="sample" id="sample">
+                        </div>
+
+                        <div class="comment-box">
+                            <!--التسمية للتعليقات الإضافية-->
+                            <label for="comments">تعليقات</label>
+                            <textarea name="comments" id="comments" cols="30" rows="3">أدخل تعليقاتك...</textarea>
+                        </div>
+                        <!--الإدخال لتقديم الاستمارة-->
+                        <button type="submit" class="submit">إرسال</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="registration-form.css">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+</head>
+
+<body>
+    <div class="card">
+        <section class="container">
+            <div class="box">
+                <div class="registration_form">
+                    <h2>Registration Form</h2>
+                    <h4><!--You're a trailblazer!
+                        Looking for a specific service
+                        that we don't have yet? -->No worries,
+                        we've got your back. Dziri
+                        Serve is here to help you
+                        connect with the right opportunities.</h4>
+                    <h3>Let's kick off this adventure together.
+                        Ready, set, let's go! 🚀</h3>
+                    <img src="logo.jpg" class="hello">
+                </div>
+                <div class="formuser">
+                    <form action="#" method="post">
+                        <div class="input-box">
+                            <!--the labe for the first name of the user-->
+                            <label class="name" for="firstname">First Name</label>
+                            <input type="text" name="firstname" id="firstname" size="15" maxlength="30" required />
+                        </div>
+                        <!--what is the difference or the usages of name and id ? -->
+
+                        <div class="input-box">
+                            <!--the label for the surname of the user-->
+                            <label class="name" for="surname">Surname</label>
+                            <input type="text" name="surname" id="surname" size="15" maxlength="30" required />
+                        </div>
+                        <div class="input-box">
+                            <!--the label for the email address of the user-->
+                            <label for="email">Email</label>
+                            <input type="email" name="email" id="email" size="15" maxlength="30" required />
+                        </div>
+                        <!--the location or the city of the user-->
+                        <div class="select-box">
+                            <label for="location">Location/City:</label>
+                            <select name="location" size="5" title="wilaya">
+                                <option value="01" selected="selected">Adrar</option>
+                                <option value="02">Chlef</option>
+                                <option value="03">Laghouat</option>
+                                <option value="04">Oum El Bouaghi</option>
+                                <option value="05">Batna</option>
+                                <option value="06">Béjaïa</option>
+                                <option value="07">Biskra</option>
+                                <option value="08">Béchar</option>
+                                <option value="09">Blida</option>
+                                <option value="10">Bouira</option>
+                                <option value="11">Tamanrasset</option>
+                                <option value="12">Tébessa</option>
+                                <option value="13">Tlemcen</option>
+                                <option value="14">Tiaret</option>
+                                <option value="15">Tizi Ouzou</option>
+                                <option value="16">Alger</option>
+                                <option value="17">Djelfa</option>
+                                <option value="18">Jijel</option>
+                                <option value="19">Sétif</option>
+                                <option value="20">Saïda</option>
+                                <option value="21">Skikda</option>
+                                <option value="22">Sidi Bel Abbès</option>
+                                <option value="23">Annaba</option>
+                                <option value="24">Guelma</option>
+                                <option value="25">Constantine</option>
+                                <option value="26">Médéa</option>
+                                <option value="27">Mostaganem</option>
+                                <option value="28">M'Sila</option>
+                                <option value="29">Mascara</option>
+                                <option value="30">Ouargla</option>
+                                <option value="31">Oran</option>
+                                <option value="32">El Bayadh</option>
+                                <option value="33">Illizi</option>
+                                <option value="34">Bordj Bou Arréridj</option>
+                                <option value="35">Boumerdès</option>
+                                <option value="36">El Tarf</option>
+                                <option value="37">Tindouf</option>
+                                <option value="38">Tissemsilt</option>
+                                <option value="39">El Oued</option>
+                                <option value="40">Khenchela</option>
+                                <option value="41">Souk Ahras</option>
+                                <option value="42">Tipaza</option>
+                                <option value="43">Mila</option>
+                                <option value="44">Aïn Defla</option>
+                                <option value="45">Naâma</option>
+                                <option value="46">Aïn Témouchent</option>
+                                <option value="47">Ghardaïa</option>
+                                <option value="48">Relizane</option>
+                                <option value="49">El M'Ghair</option>
+                                <option value="50">El Menia</option>
+                                <option value="51">Ouled Djellal</option>
+                                <option value="52">Bordj Baji Mokhtar</option>
+                                <option value="53">Beni Abbes</option>
+                                <option value="54">Timimoun</option>
+                                <option value="55">Touggourt</option>
+                                <option value="56">Djanet</option>
+                                <option value="57">In Salah</option>
+                                <option value="58">In Guezzam</option>
+                            </select>
+                        </div>
+
+                        <!--label for the occupation of the user-->
+                        <div class="input-box">
+                            <label for="occupation">Occupation/Service Offered</label>
+                            <input type="text" name="occupation" id="occupation" size="15" maxlength="30" required />
+                        </div>
+                        <!--label for the description of the service offered-->
+                        <div class="description-box">
+                            <label for="servicedescription">Please provide a brief description of the service you offer
+                                :</label>
+                            <label for="service_description"></label>
+                            <textarea name="service_description" id="service_description" cols="30"
+                                rows="5">Describe...</textarea>
+                        </div>
+
+                        <!--Availability (When are you available to provide this service?):-->
+                        <div class="availability-box">
+                            <label for="availability">Availability:</label>
+                            <select name="availability" id="availability">
+                                <option value="morning">Morning</option>
+                                <option value="afternoon">Afternoon</option>
+                                <option value="evening">Evening</option>
+                                <option value="anytime">Anytime</option>
+                            </select>
+                        </div>
+                        <div class="preferredmethod">
+                            <label for="preferredmethod">Preferred Contact Method (Email/Phone/Both):</label>
+                            <div class="checkbox-group">
+                                <!-- <div class="input-box"> -->
+                                <input type="checkbox" name="contact_method" value="email_contact" id="email_contact"
+                                    checked="checked" />
+                                <label for="email_contact">Email</label>
+                                <!-- </div> -->
+                                <!--label for the email value-->
+                                <!-- <div class="input-box"> -->
+                                <input type="checkbox" name="contact_method" value="phone" id="phone" />
+                                <!--label for the phone value-->
+                                <label for="phone">Phone</label>
+                                <!-- </div> -->
+                                <!-- <div class="input-box"> -->
+                                <input type="checkbox" name="contact_method" value="both" id="both" />
+                                <!--label for both of the above value-->
+                                <label for="both">Both</label>
+                                <!-- </div> -->
+                            </div>
+                        </div>
+                        <!--my question is if i write in this label email is it going to be the first above email
+        or this new one ?-->
+
+
+                        <div class="sample-box">
+                            <!--label to attach sample : portfolio-->
+                            <label for="sample">Attach Samples/Portfolio</label>
+                            <input type="file" name="sample" id="sample">
+                        </div>
+
+                        <div class="comment-box">
+                            <!--label for additional comments-->
+                            <label for="comments">Comments</label>
+                            <textarea name="comments" id="comments" cols="30" rows="3">Enter your Comments...</textarea>
+                        </div>
+                        <!--input to submit the form-->
+                        <button type="submit" class="submit">Submit</button>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </div>
+</body>
